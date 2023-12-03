@@ -27,15 +27,6 @@ export default function Home() {
               Technology Innovation Texar
             </p>
           </div>
-          <div className="lg:hidden px-4">
-            <Image
-              src={"/menu.png"}
-              alt="menu"
-              quality={100}
-              height={32}
-              width={32}
-            />
-          </div>
           <ul className="hidden lg:flex">
             <li>
               <a
